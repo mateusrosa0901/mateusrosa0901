@@ -49,5 +49,5 @@ Transformo planilhas e relatórios em ferramentas que poupam horas de trabalho m
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/mateus-rosa-0706a1205/
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)] mateusrosa0901@gmail.com
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) https://www.linkedin.com/in/mateus-rosa-0706a1205/
+![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) mateusrosa0901@gmail.com
