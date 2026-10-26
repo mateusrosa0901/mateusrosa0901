@@ -13,7 +13,7 @@ Transformo planilhas e relatórios em ferramentas que poupam horas de trabalho m
 ### 🧑‍💻 Sobre mim
 
 - 📊 Trabalho com análise de dados: automação de relatórios, cruzamento de bases e dashboards.
-- 🐍 Meu dia a dia é **Python** — pandas, openpyxl e Streamlit para colocar as análises no navegador.
+- 🐍 Meu dia a dia é **Python** — pandas e Streamlit para colocar as análises no navegador.
 - 🌱 Estudando agora: **MongoDB** e boas práticas para levar scripts a produção.
 - 🚀 Comecei pela web (HTML, CSS, PHP/Laravel), passei por Java e encontrei meu lugar nos dados.
 
