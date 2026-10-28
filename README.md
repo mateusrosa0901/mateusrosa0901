@@ -4,7 +4,6 @@
 
 **Analista de Dados** · Sistemas de Informação
 
-Transformo planilhas e relatórios em ferramentas que poupam horas de trabalho manual.
 
 </div>
 
